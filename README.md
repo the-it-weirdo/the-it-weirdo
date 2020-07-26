@@ -14,3 +14,10 @@
 - 👯 I’m looking to collaborate on projects related to Android App Development or Computer Vision.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/the-it-weirdo/)
 - ⚡ Fun fact: I like making memes, writing and photography. Check out my [blog](https://www.mindswindow.me).
+
+---
+
+<p align="middle">
+  <img alt="Debaleen's Github Stats" align="middle" src="https://github-readme-stats.vercel.app/api?username=the-it-weirdo&count_private=true&show_icons=true&icon_color=F5B700&title_color=2F97C1&bg_color=040F0F&text_color=0CF574" />
+  <img alt="Debaleen's Top used Languages" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-it-weirdo&hide=jupyter%20notebook,c%23&icon_color=F5B700&title_color=2F97C1&bg_color=040F0F&text_color=0CF574"/>
+</p>
