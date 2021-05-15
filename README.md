@@ -21,14 +21,17 @@
 
 <p align="middle">
   <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/android.svg" alt="android" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/java.svg" alt="java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/kotlin.svg" alt="kotlin" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/python.svg" alt="python" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/javascript.svg" alt="javascript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/kotlin.svg" alt="kotlin" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/csharp.svg" alt="c" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/java.svg" alt="java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/c.svg" alt="c" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/react.svg" alt="react" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/netcore.svg" alt=".net core" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/git.svg" alt="git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/mysql.svg" alt="mysql" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/sqlserver.svg" alt="mysql" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/firebase.svg" alt="firebase" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/html5.svg" alt="html5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/the-it-weirdo/the-it-weirdo/master/assets/css3.svg" alt="css3" width="60" height="60"/>
@@ -39,10 +42,10 @@
 
 ## 📊 Stats
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github_
-
 <p align="middle">
   <img alt="Debaleen's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=the-it-weirdo&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green" />
   
-  <img alt="Debaleen's Top used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-it-weirdo&hide=jupyter%20notebook,c%23&theme=blue-green"/>
+  <!-- <img alt="Debaleen's Top used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-it-weirdo&hide=jupyter%20notebook,c%23&theme=blue-green"/>
+  _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github_
+-->
 </p>
