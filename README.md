@@ -41,11 +41,10 @@
 ***
 
 ## 📊 Stats
+|  Stats        | Streak  |
+|:-------------:|:-------:|
+| ![Debaleen's github stats](https://github-readme-stats.vercel.app/api?username=the-it-weirdo&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green) | ![Debaleen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=the-it-weirdo&theme=blue-green) |
 
-<p align="middle">
-  <img alt="Debaleen's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=the-it-weirdo&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green" />
-  
   <!-- <img alt="Debaleen's Top used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-it-weirdo&hide=jupyter%20notebook,c%23&theme=blue-green"/>
   _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github_
 -->
-</p>
