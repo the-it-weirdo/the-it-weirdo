@@ -6,11 +6,10 @@
 
 ## Hi there, 👋! I am Debaleen Das Spandan
 
-- 👨‍🎓 I’m a final year Computer Science and Engineering student.
-- 🌱 I’ve had training in Android App Development and Machine Learning.
-- 👨‍💻 I’ve built several Android Apps as personal projects.
-- 🤓 I’m interested in Mobile Development, Software Development, Augmented Reality and Computer Vision.
-- 👯 I’m looking to collaborate on projects related to Android App Development or Computer Vision.
+- 👨‍🎓 I’m a Computer Science and Engineering graduate.
+- 👨‍💻 I’m interested in Mobile Development, Software Development, Augmented Reality, Computer Vision and Human Computer Interaction.
+- 🤓 I’m also curious about Cyber Security.
+- 👯 I’m looking to collaborate on projects related to Android App Development, Computer Vision, Human Computer Interaction and Cyber Security.
 - ⚡ Fun fact: I like making memes, writing and photography. Check out my [blog](https://www.mindswindow.me).
 
 <p align="middle"><a href="https://www.linkedin.com/in/the-it-weirdo/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/></a></p>
