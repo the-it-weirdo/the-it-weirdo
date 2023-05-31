@@ -6,10 +6,12 @@
 
 ## Hi there, 👋! I am Debaleen Das Spandan
 
-- 👨‍🎓 I’m a Computer Science and Engineering graduate.
-- 👨‍💻 I’m interested in Mobile Development, Software Development, Augmented Reality, Computer Vision and Human Computer Interaction.
-- 🤓 I’m also curious about Cyber Security.
-- 👯 I’m looking to collaborate on projects related to Android App Development, Computer Vision, Human Computer Interaction and Cyber Security.
+- 👨‍🎓 I’m a Computer Science Master's Student at Missouri State University, USA.
+- ✒️ I'm writing a thesis on using non-verbal communication methods in Smart Home environments.
+- 👨‍💻 My primary research topic is Human Computer Interaction and Computer Vision. 
+- 🔎 I’m also curious about Cyber Security.
+- 💻 I’m interested in App Development, Software Development, and Augmented Reality.
+- 🤝 I’m looking to collaborate on projects related to Android App Development, Computer Vision, Human Computer Interaction and Cyber Security.
 - ⚡ Fun fact: I like making memes, writing and photography. Check out my [blog](https://www.mindswindow.me).
 
 <p align="middle"><a href="https://www.linkedin.com/in/the-it-weirdo/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/></a></p>
@@ -39,10 +41,10 @@
 
 ***
 
-## 📊 Stats
+<!-- ## 📊 Stats
 |  Stats        | Streak  |
 |:-------------:|:-------:|
-| ![Debaleen's github stats](https://github-readme-stats.vercel.app/api?username=the-it-weirdo&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green) | ![Debaleen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=the-it-weirdo&theme=blue-green) |
+| ![Debaleen's github stats](https://github-readme-stats.vercel.app/api?username=the-it-weirdo&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green) | ![Debaleen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=the-it-weirdo&theme=blue-green) | -->
 
   <!-- <img alt="Debaleen's Top used Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-it-weirdo&hide=jupyter%20notebook,c%23&theme=blue-green"/>
   _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github_
